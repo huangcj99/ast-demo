@@ -1,0 +1,17 @@
+{
+  "name": "test-babel",
+  "version": "1.0.0",
+  "description": "babel-core ast ",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "author": "joe <smallcatcat.joe@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "parcel": "^1.8.1"
+  }
+}
